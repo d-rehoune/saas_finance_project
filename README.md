@@ -2,7 +2,7 @@
 
 Pipeline de données complète pour une plateforme de paiement fictive (type Stripe / Payplug) — de la génération des données brutes jusqu'au dashboard financier, en passant par la modélisation dbt et Snowflake.
 
-**Auteure :** [Dyhia Rehoune](www.linkedin.com/in/dyhia-rehoune-76788b170) | **GitHub :** [d-rehoune/saas_finance_project](https://github.com/d-rehoune/saas_finance_project)
+**Auteure :** [Dyhia Rehoune](https://www.linkedin.com/in/dyhia-rehoune-76788b170/) | **GitHub :** [d-rehoune/saas_finance_project](https://github.com/d-rehoune/saas_finance_project)
 
 ---
 
