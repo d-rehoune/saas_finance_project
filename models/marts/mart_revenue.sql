@@ -16,7 +16,7 @@ final as (
         total_revenue,
 
         -- Net Take Rate
-        round(total_revenue / nullif(gmv, 0) * 100, 2) as net_take_rate_pct
+        coalesce(round(total_revenue / nullif(gmv, 0) * 100, 2), 0) as net_take_rate_pct
 
     from monthly
 )

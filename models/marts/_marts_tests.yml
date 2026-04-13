@@ -1,0 +1,32 @@
+version: 2
+
+models:
+  - name: mart_revenue
+    columns:
+      - name: customer_id
+        tests:
+          - not_null
+      - name: gmv
+        tests:
+          - not_null
+      - name: net_take_rate_pct
+        tests:
+          - not_null
+
+  - name: mart_chargeback
+    columns:
+      - name: customer_id
+        tests:
+          - not_null
+      - name: default_rate_pct
+        tests:
+          - not_null
+
+  - name: mart_ltv
+    columns:
+      - name: customer_id
+        tests:
+          - not_null
+      - name: ltv
+        tests:
+          - not_null
