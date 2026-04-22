@@ -191,7 +191,7 @@ dbt test
 
 ## 📈 Dashboard Power BI
 
-*Screenshot à venir*
+ *D'autres screenshot à venir*
 
 Le dashboard expose les métriques suivantes :
 - Évolution du GMV mensuel par plan
@@ -200,6 +200,8 @@ Le dashboard expose les métriques suivantes :
 - Courbes de LTV et Negative Churn
 
 ---
+<img width="1188" height="790" alt="image" src="https://github.com/user-attachments/assets/711663cd-c560-42cf-bb6d-97d9478a7c94" />
+
 
 ## 💡 Points forts du projet
 
